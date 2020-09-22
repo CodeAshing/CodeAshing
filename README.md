@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<img align="left" alt="Saad Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asharib90&langs_count=8" />
+<img align="center" alt="Asharib Ahmed" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asharib90&langs_count=8" />
 
 <br />
 
