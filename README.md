@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br />
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="Asharib-Ahmed | Twitter" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
