@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br />
+<br />
+<img align="left" alt="Saad Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asharib90&langs_count=8" />
+
+<br />
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="Asharib-Ahmed | Twitter" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
@@ -24,8 +32,6 @@ Here are some ideas to get you started:
 
 <br />
 
-
-<img align="left" alt="Saad Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asharib90&langs_count=8" />
 
 [twitter]: https://twitter.com/asharibahmed4
 [instagram]: https://instagram.com/asharib90
