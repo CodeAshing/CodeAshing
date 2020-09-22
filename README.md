@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Asharib-Ahmed | facebook" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png"/>][facebook]
 
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asharib90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/Asharib90)<br/>
 
 [twitter]: https://twitter.com/asharibahmed4
 [instagram]: https://instagram.com/asharib90
