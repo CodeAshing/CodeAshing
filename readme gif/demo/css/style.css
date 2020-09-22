@@ -1,0 +1,32 @@
+#particles-js {background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+;
+    height: 100%;
+    width: 100%;
+}
+
+#typewriter {
+    position: absolute;
+    color: white;
+    padding-left: 15%; 
+    text-align: center;   
+    font-size: 60px;
+    font-family: 'B612', sans-serif;
+    font-weight: 700;
+    width: 900px;
+    margin: 350px 250px;
+}
+
+#typewriterLite {
+    position: absolute;
+    color: white;
+    padding-left: 15%;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'B612', sans-serif;
+    font-weight: 700;
+    width: 900px;
+    margin: 450px 250px;
+}
+
