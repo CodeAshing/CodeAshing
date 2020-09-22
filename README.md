@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 -->
 ### Connect with me:
 
-[<img align="left" alt="Asharib-Ahmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/asharibahmed4]
-[<img align="left" alt="Asharib-Ahmed| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://twitter.com/asharibahmed4]
-[<img align="left" alt="Asharib-Ahmed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][https://twitter.com/asharibahmed4]
-[<img align="left" alt="Asharib-Ahmed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][https://twitter.com/asharibahmed4]
+[<img align="left" alt="Asharib-Ahmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Asharib-Ahmed| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Asharib-Ahmed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="Asharib-Ahmed | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
 
 <br />
+<a href="https://sourcerer.io/saadhaxxan"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
+
 [twitter]: https://twitter.com/asharibahmed4
 [instagram]: https://instagram.com/asharib90
 [linkedin]: https://www.linkedin.com/in/itsasharib/
