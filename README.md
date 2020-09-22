@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hey there, I'm Asharib.](https://github.com/Asharib90/Asharib90/blob/master/ezgif.com-video-to-gif.gif)
+![Hey there, I'm Asharib.](https://github.com/Asharib90/Asharib90/blob/master/bio.gif)
 
 
 <!--
