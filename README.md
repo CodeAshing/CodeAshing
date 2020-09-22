@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<img align="left" alt="Saad Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asharib90&langs_count=8" />
-
-<br />
-<br />
 
 ### Connect with me:
 
@@ -31,7 +27,11 @@ Here are some ideas to get you started:
 [<img align="left" alt="Asharib-Ahmed | facebook" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png"/>][facebook]
 
 <br />
+<br />
 
+<img align="left" alt="Saad Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asharib90&langs_count=8" />
+
+<br />
 
 [twitter]: https://twitter.com/asharibahmed4
 [instagram]: https://instagram.com/asharib90
