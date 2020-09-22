@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Hey there, I'm Asharib.](https://github.com/Asharib90/Asharib90/blob/master/bio.gif)
 
 
@@ -16,3 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Connect with me:
+
+[<img align="left" alt="Asharib-Ahmed | Twitter" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
+[<img align="left" alt="Asharib-Ahmed| LinkedIn" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[<img align="left" alt="Asharib-Ahmed | Instagram" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
+[<img align="left" alt="Asharib-Ahmed | Instagram" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" />][facebook]
+
+<br />
+[twitter]: https://twitter.com/asharibahmed4
+[instagram]: https://instagram.com/asharib90
+[linkedin]: https://www.linkedin.com/in/itsasharib/
+[facebook]: https://www.facebook.com/asharib90
