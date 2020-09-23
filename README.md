@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Asharib-Ahmed | Instagram" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"/>][instagram]
 [<img align="left" alt="Asharib-Ahmed | facebook" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png"/>][facebook]
 
-<br />
-<br />
 
 <img align="center" alt="Asharib Ahmed" src="https://github-readme-stats.vercel.app/api?username=asharib90&show_icons=true&hide_border=true&theme=dark" />
 
