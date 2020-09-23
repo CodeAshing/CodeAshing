@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Connect with me:
 
-<img align="center" alt="Asharib Ahmed" src="https://github-readme-stats.vercel.app/api?username=asharib90&show_icons=true&hide_border=true&theme=dark" />
+[<img align="left" alt="Asharib-Ahmed | Twitter" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
+[<img align="left" alt="Asharib-Ahmed| LinkedIn" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[<img align="left" alt="Asharib-Ahmed | Instagram" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"/>][instagram]
+[<img align="left" alt="Asharib-Ahmed | facebook" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png"/>][facebook]
+
 
 <img align="center" alt="Asharib Ahmed" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asharib90&langs_count=8&layout=compact" />
 
