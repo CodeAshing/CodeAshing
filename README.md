@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Asharib-Ahmed | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-128.png" />][twitter]
 [<img align="left" alt="Asharib-Ahmed| LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-128.png" />][linkedin]
-[<img align="left" alt="Asharib-Ahmed | Instagram" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"/>][instagram]
+[<img align="left" alt="Asharib-Ahmed | Instagram" width="22px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/instagram_circle_color-128.png"/>][instagram]
 [<img align="left" alt="Asharib-Ahmed | facebook" width="22px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-128.png"/>][facebook]
 
 <br />
