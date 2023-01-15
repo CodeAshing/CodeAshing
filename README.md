@@ -1,4 +1,4 @@
-<img src="./assets/ezgif.com-gif-maker.gif" height="440" width="1920"  alt="banner">
+<img src="./assets/ezgif.com-gif-maker.gif" height="350" width="1920"  alt="banner">
 
 <p align="center">
   <a href="https://github.com/asharib90">
