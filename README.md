@@ -1,12 +1,9 @@
-<img src="./assets/sudio.gif" height="440" width="1920"  alt="banner">
+<img src="./assets/ezgif.com-gif-maker.gif" alt="banner">
 
 <p align="center">
   <a href="https://github.com/asharib90">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Asharib+Ahmed" alt="Jonah Lawrence" /></a>
-</p>
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/asharib90/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Software+Engineer;GitHub+Campus+Expert;Empowering+solution+creation+for+success;Tech+Evangelist&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
 </p>
@@ -23,7 +20,7 @@
 
 <br/>
 
-<details open> 
+<details>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -37,8 +34,7 @@
 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
-
-<details open> 
+<details > 
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
@@ -47,7 +43,6 @@
   </p>
 
 </details>
-
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -153,7 +148,6 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
-
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
@@ -181,8 +175,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="asharib90's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=asharib90&bg_color=1F222E&color=F8D866&line=4E96FFFF&point=FFFFFF&hide_border=true" /></a>
 
 </details>
-
-<details> 
+<details > 
   <summary><h2>🏷️ My Trophies</h2></summary>
   <p>
   
