@@ -155,8 +155,7 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/asharib90/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/asharib90/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="asharib90's streak" src="https://streak-stats.demolab.com/?user=asharib90&theme=monokai-metallian&hide_border=true"/>
+    <a href="https://streak-stats.demolab.com/?user=asharib90&theme=monokai-metallian&hide_border=true">
     </a>
   </p>
 
