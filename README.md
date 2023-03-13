@@ -155,11 +155,13 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/asharib90/github-readme-streak-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="asharib90's Github Stats" src="https://streak-stats.demolab.com/?user=asharib90&theme=monokai-metallian&hide_border=true" height="192px"/></a>
-<!--   
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="asharib90's Github Stats" src="https://streak-stats.demolab.com/?user=asharib90&theme=monokai-metallian&hide_border=true" height="192px"/></a>
+<!--    -->
+    <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="asharib90's streak" src="https://streak-stats.demolab.com/?user=asharib90&theme=monokai-metallian&hide_border=true"/>
-    </a> -->
+    </a> --> -->
+    
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=asharib90&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
 
   <h3>💻 GitHub Profile Stats</h3>
 
