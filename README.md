@@ -153,7 +153,7 @@
 
   <h3>🔥 Streak Stats</h3>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=asharib90)](https://git.io/streak-stats)
 
 
   <h3>💻 GitHub Profile Stats</h3>
