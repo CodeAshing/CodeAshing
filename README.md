@@ -154,11 +154,12 @@
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/asharib90/github-readme-streak-stats -->
-  <p>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="asharib90's Github Stats" src="https://streak-stats.demolab.com/?user=asharib90&theme=monokai-metallian&hide_border=true" height="192px"/></a>
+<!--   
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="asharib90's streak" src="https://streak-stats.demolab.com/?user=asharib90&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
+    </a> -->
 
   <h3>💻 GitHub Profile Stats</h3>
 
