@@ -1,5 +1,6 @@
 <img src="./assets/ezgif.com-gif-maker.gif" alt="banner">
 
+
 <p align="center">
   <a href="https://github.com/asharib90">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Asharib+Ahmed" alt="Jonah Lawrence" /></a>
