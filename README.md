@@ -1,3 +1,4 @@
+
 <img src="./assets/ezgif.com-gif-maker.gif" alt="banner">
  
    
@@ -21,8 +22,19 @@
 
 <br/>
 
+
 <details>
-  <summary><div class="uperDiv" style="display:inline-flex;"> <div class="gif"> <img src ="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width = 50px ></div> <div> <h2> My Top Open Source Projects </h2> </div> </div></summary>
+ 
+<summary>
+  <div class="uperDiv" style="display: inline-flex;">
+    <div class="gif">
+      <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="50px">
+    </div>
+    <div>
+      <h2>My Top Open Source Projects</h2>
+    </div>
+  </div>
+</summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
