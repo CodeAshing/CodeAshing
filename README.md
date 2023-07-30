@@ -1,8 +1,9 @@
 <img src="./assets/ezgif.com-gif-maker.gif" alt="banner">
  
+   
 <p align="center">
-  <a href="https://github.com/asharib90">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Asharib+Ahmed" alt="Jonah Lawrence" /></a>
+  <a href="https://github.com/codeashing">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Asharib+Ahmed" alt="Jonah Lawrence" /></a>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Software+Engineer;GitHub+Campus+Expert;Empowering+solution+creation+for+success;Tech+Evangelist&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
@@ -12,23 +13,23 @@
 <p align="center">
 <a href="https://asharib.live/"><img src="https://img.shields.io/badge/personal website-F15B2A?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/itsasharib/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b5fbb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/asharib90"><img  alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-1c96e9?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/codeashing"><img  alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-1c96e9?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://asharib.medium.com/"><img  alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white"/></a><br/>
-    <a href="https://www.buymeacoffee.com/asharib90"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-    <a href="https://githubcampus.expert/asharib90/"><img src="https://img.shields.io/badge/GitHub Campus Experts Profile-d61e3c?style=for-the-badge&logo=github&logoColor=white" /></a>  
+    <a href="https://www.buymeacoffee.com/codeashing"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+    <a href="https://githubcampus.expert/codeashing/"><img src="https://img.shields.io/badge/GitHub Campus Experts Profile-d61e3c?style=for-the-badge&logo=github&logoColor=white" /></a>  
 </p>
 
 <br/>
- 
+
 <details>
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2> My Top Open Source Projects <img src ="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width = 50px ></h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/Asharib90/US_visa_interview_notifier"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asharib90&repo=US_visa_interview_notifier&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Asharib90/US_visa_interview_notifier"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asharib90&repo=Resume_parser_with_Spacy&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Asharib90/US_visa_interview_notifier"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asharib90&repo=Name_entity_recognition&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/codeashing/US_visa_interview_notifier"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=codeashing&repo=US_visa_interview_notifier&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/codeashing/US_visa_interview_notifier"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=codeashing&repo=Resume_parser_with_Spacy&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/codeashing/US_visa_interview_notifier"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=codeashing&repo=Name_entity_recognition&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
     
   </p>
 
@@ -44,7 +45,7 @@
 
 </details>
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My Favorite Tools </h2></h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -153,10 +154,10 @@
 
   <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/asharib90/github-readme-streak-stats -->
+  <!-- GitHub Readme Streak Stats - https://github.com/codeashing/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/asharib90/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="asharib90's streak" src="https://streak-stats.demolab.com/?user=asharib90&theme=monokai-metallian&hide_border=true"/>
+    <a href="https://github.com/codeashing/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="codeashing's streak" src="https://streak-stats.demolab.com/?user=codeashing&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
 
@@ -164,21 +165,28 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="asharib90's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=asharib90&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="asharib90's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=asharib90&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeashing's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=codeashing&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeashing's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=codeashing&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="asharib90's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=asharib90&bg_color=1F222E&color=F8D866&line=4E96FFFF&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="codeashing's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=codeashing&bg_color=1F222E&color=F8D866&line=4E96FFFF&point=FFFFFF&hide_border=true" /></a>
 
 </details>
 <details > 
   <summary><h2>🏷️ My Trophies</h2></summary>
   <p>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=asharib90&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=codeashing&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 </details>
+
+
+<div align="center">
+<h2 align="centre">Visitor Count</h2>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{codeashing}/count.svg" /></p> 
+<br>
+</div>
