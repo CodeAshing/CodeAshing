@@ -22,7 +22,7 @@
 <br/>
 
 <details>
-  <summary><h2> My Top Open Source Projects <img class="icon" src ="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width = 50px ></h2></summary>
+  <summary><h2> My Top Open Source Projects <div class="icon"> <img src ="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width = 50px ></div></h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
