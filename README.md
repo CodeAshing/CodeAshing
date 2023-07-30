@@ -26,7 +26,7 @@
 <details>
  
 <summary>
-  <div class="uperDiv" style="display: inline-flex;">
+  <div class="uperDiv" style="display: inline-flex;" >
     <div class="gif">
       <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="50px">
     </div>
