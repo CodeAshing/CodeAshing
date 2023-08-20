@@ -22,45 +22,39 @@
 
 <br/>
 
+***<h3><img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="50px"> &nbsp; My Top Open Source Projects</h3>***
+<hr></hr>
 
-<details>
- 
-<summary>
-  <div class="uperDiv" style="display: inline-flex;" >
-    <div class="gif">
-      <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="50px">
-    </div>
-    <div>
-      <h2>My Top Open Source Projects</h2>
-    </div>
-  </div>
-</summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
+<div align="center" >
+  <p>
     <a href="https://github.com/codeashing/US_visa_interview_notifier"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=codeashing&repo=US_visa_interview_notifier&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/codeashing/US_visa_interview_notifier"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=codeashing&repo=Resume_parser_with_Spacy&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/codeashing/US_visa_interview_notifier"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=codeashing&repo=Name_entity_recognition&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
     
   </p>
 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-<details > 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+  <a href="https://github.com/CodeAshing?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+</div>
+
+***<h3><img src="https://media.giphy.com/media/QTmfvHGklosY1ha87W/giphy.gif" width="50px"> &nbsp; Top Projects I've Contributed To </h3>***
+<hr></hr>
+
+<div align="center" >
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <p align="left">
+  <p>
     <a href="https://github.com/rashidwassan/learning-resources"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rashidwassan&repo=learning-resources&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false&show_description=false" alt="flask"></a>
   </p>
+</div>
 
-</details>
-<details> 
-  <summary><h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My Favorite Tools </h2></h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+***<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> &nbsp; My Favorite Tools </h3>***
+<hr></hr>
+
+<div align="center" >
+
+### ***<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30px"> &nbsp; Programming and Markup Languages***
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
@@ -88,8 +82,7 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
-
+### ***<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhyMXl6ZDZwZTN6bnBidm43Z2Yxam8zZ2R6YTJzZHRweGN6ZXVzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M3nwJpDEUxkCzVftCi/giphy.gif" width="30px"> &nbsp; Frameworks and Libraries***
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="BlissfulJS" src="https://custom-icon-badges.demolab.com/badge/Bliss.js-3dacc2.svg?logo=bliss&logoColor=white"></a>
@@ -118,7 +111,7 @@
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+### ***<img src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="30px"> &nbsp; Databases and Cloud Hosting***
 
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -134,7 +127,7 @@
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
+### ***<img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="30px"> &nbsp; Software and Tools***
 
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -160,45 +153,50 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
-<details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+  
+</div>
 
-  <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/codeashing/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/codeashing/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="codeashing's streak" src="https://streak-stats.demolab.com/?user=codeashing&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
+***<h3><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50px"> &nbsp; Github Stats and Activity</h3>***
+<hr></hr>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align="center" >
+
+### ***<img src="https://media.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.gif" width="30px"> &nbsp; Streak Stats***
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CodeAshing&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+### ***<img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="40px"> &nbsp; GitHub Profile Stats***
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeashing's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=codeashing&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeashing's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=codeashing&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeAshing&bg_color=20222e&color=4e96ff&line=4783de&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="codeashing's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=codeashing&bg_color=1F222E&color=F8D866&line=4E96FFFF&point=FFFFFF&hide_border=true" /></a>
+</div>
 
-</details>
-<details > 
-  <summary><h2>🏷️ My Trophies</h2></summary>
-  <p>
-  
+
+***<h3><img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="50px"> &nbsp; My Trophies</h3>***
+<hr></hr>
+
+<div align="center" >
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=codeashing&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
-</details>
+</div>
+
+<div align="center" >
+ 
+<hr></hr>
 
 
-<div align="center">
-<h2 align="centre">Visitor Count</h2>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{codeashing}/count.svg" /></p> 
-<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdyOTJidmx2em5kNDlrNzM0eWtvcWdhamdwY2l5cG80MjF3Zm5icSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kyp0k7WuLz79is0azg/giphy.gif" width="150px"><br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
 </div>
