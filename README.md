@@ -185,18 +185,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=codeashing&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
-
-<div align="center" >
- 
-<hr></hr>
-
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdyOTJidmx2em5kNDlrNzM0eWtvcWdhamdwY2l5cG80MjF3Zm5icSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kyp0k7WuLz79is0azg/giphy.gif" width="150px"><br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-</div>
